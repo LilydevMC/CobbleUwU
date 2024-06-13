@@ -40,7 +40,7 @@ jobs:
       - name: Get pack name
         id: get_pack_name
         run: |
-          echo "::set-output name=value::$(toml get pack.toml name)"
+          echo ::set-output name=value::$(toml get pack.toml name)
 
       - name: Set pack version
         run: |
