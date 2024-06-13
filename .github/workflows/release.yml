@@ -33,7 +33,7 @@ jobs:
             ${{ runner.os }}-go-
 
       - name: Get pack name
-        uses: sravinet/toml-select@v1
+        uses: sravinet/toml-select@v1.0.1
         id: get_pack_name
         with:
           file: pack.toml
