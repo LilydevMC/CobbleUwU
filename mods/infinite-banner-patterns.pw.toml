@@ -1,0 +1,13 @@
+name = "Infinite Banner Patterns"
+filename = "infinite-banner-stack-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOsKcnBr/versions/moi92ex3/infinite-banner-stack-1.1.0.jar"
+hash-format = "sha1"
+hash = "9b31b55ee2381ce6e06adf7656a1226abcc0923d"
+
+[update]
+[update.modrinth]
+mod-id = "mOsKcnBr"
+version = "moi92ex3"

@@ -1,0 +1,13 @@
+{
+  "main_menu": {
+    "bottom_left": [
+      {
+        "text": "Cobblemon :3",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      }
+    ]
+  }
+}
