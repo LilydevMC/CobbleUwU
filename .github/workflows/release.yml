@@ -33,11 +33,11 @@ jobs:
             ${{ runner.os }}-go-
 
       - name: Get pack name
-        uses: SebRollen/toml-action@v1.2.0
+        uses: sravinet/toml-select@v1
         id: get_pack_name
         with:
           file: pack.toml
-          key: "name"
+          field: name
 
       - name: Replace version
         uses: ciiiii/toml-editor@1.0.0
