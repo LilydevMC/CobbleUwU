@@ -44,7 +44,7 @@ jobs:
 
       - name: Set pack version
         run: |
-          toml set pack.toml version ${{ github.event.inputs.version }} > pack.toml
+          toml set pack.toml version ${{ github.event.inputs.version }} > pack.toml && cat pack.toml
 
       - name: Refresh and build .mrpack
         run: packwiz refresh && packwiz mr export
