@@ -40,7 +40,7 @@ jobs:
       - name: Get pack name
         id: get_pack_name
         run: |
-          echo ::set-output name=value::$(toml get pack.toml name)
+          echo "::set-output name=value::$(toml get pack.toml name | sed -e 's/^"//' -e 's/"$//')"
 
       - name: Set pack version
         run: |
@@ -58,7 +58,7 @@ jobs:
       - name: Create release
         uses: actions/create-release@v1
         with:
-          tag_name: ${{ github.event.inputs.version }}
+          tag_name: ${{ steps.get_pack_name.outputs.value }} v${{ github.event.inputs.version }}
           release_name: ${{ github.event.inputs.version }}
           body: |
             Release of version ${{ github.event.inputs.version }}
