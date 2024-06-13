@@ -60,7 +60,7 @@ jobs:
         with:
           files: "*.mrpack"
           tag_name: v${{ github.event.inputs.version }}
-          release_name: ${{ steps.get_pack_name.outputs.value }} v${{ github.event.inputs.version }}
+          name: ${{ steps.get_pack_name.outputs.value }} v${{ github.event.inputs.version }}
           body: |
             Release of ${{ steps.get_pack_name.outputs.value }} version ${{ github.event.inputs.version }}
           draft: false
