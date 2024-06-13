@@ -14,6 +14,11 @@ jobs:
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
+      - name: Install toml-cli
+        uses: baptiste0928/cargo-install@v3
+        with:
+          crate: toml-cli
+
       - name: Install packwiz
         uses: actions/setup-go@v4.1.0
         with:
@@ -33,18 +38,13 @@ jobs:
             ${{ runner.os }}-go-
 
       - name: Get pack name
-        uses: sravinet/toml-select@v1.0.1
         id: get_pack_name
-        with:
-          file: pack.toml
-          field: name
+        run: |
+          echo "::set-output name=value::$(toml get pack.toml name)"
 
-      - name: Replace version
-        uses: ciiiii/toml-editor@1.0.0
-        with:
-          file: pack.toml
-          key: "version"
-          value: ${{ github.event.inputs.version }}
+      - name: Set pack version
+        run: |
+          toml set pack.toml version ${{ github.event.inputs.version }}
 
       - name: Refresh and build .mrpack
         run: packwiz refresh && packwiz mr export
