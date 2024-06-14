@@ -771,11 +771,6 @@ hash = "afa37ff0933737289762d010849bed6cd99960f626e21ff11dc1a97524da4f43"
 metafile = true
 
 [[files]]
-file = "mods/wilder-wild.pw.toml"
-hash = "81ae61cb5dd8f71ea187b485422b469d5e4a00e571045c125308b56456293a15"
-metafile = true
-
-[[files]]
 file = "mods/world-host.pw.toml"
 hash = "1122d8829ac8e508d738416cade749d8cd0c4135262c41b8b53c0016faf84d99"
 metafile = true
