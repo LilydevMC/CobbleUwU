@@ -286,11 +286,6 @@ hash = "e1622902dab5e0928d59065d1bc4efb7bc61db45578183c905fe4e53b87f3526"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
 metafile = true
@@ -658,11 +653,6 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "41f18dab192c79a4f4ec38422b38c3d6198ebae71abab86cfbf305a1d008c051"
 metafile = true
 
 [[files]]
