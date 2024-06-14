@@ -251,16 +251,6 @@ hash = "e6dc6258b74e2caa896fdf4a56f16893721806061fc143bc5867be186f5f35ee"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon.pw.toml"
-hash = "abc57f063554e33a6bdd8b6aa39980293b1788fe4daea7f4d9cf215383d13145"
-metafile = true
-
-[[files]]
-file = "mods/cobblemonextras.pw.toml"
-hash = "45a614920e9607f956111c8164092fb1c45a0bbc7246374051c0f4c0c9ee65dd"
-metafile = true
-
-[[files]]
 file = "mods/cobblepedia.pw.toml"
 hash = "c5f97e84177a5d77449dfb7e777cfd9d6d6a080f154d5db0d302f7d556b4f814"
 metafile = true
