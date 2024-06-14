@@ -141,11 +141,6 @@ hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "6f8bb5750d793ffd21bef058f0f63121e1d87bd0c90ffc7ac2d237e5f451f139"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
@@ -688,11 +683,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "f832a98367e3855c99d53f41ba81dd58a467cae8f998b488ae6522675abc2323"
 metafile = true
 
 [[files]]
