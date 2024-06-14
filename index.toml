@@ -261,16 +261,6 @@ hash = "60172c258cc9297e51f7712ff68da42b3f690f59cfb243a4131437d3f75f9c3a"
 metafile = true
 
 [[files]]
-file = "mods/dcwa.pw.toml"
-hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
-metafile = true
-
-[[files]]
-file = "mods/decorative-blocks.pw.toml"
-hash = "3e9b6969df15bf6fc56840fddfd1d38744f558d5a903e4b80e6c1bde52e46290"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
@@ -316,11 +306,6 @@ hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
 metafile = true
 
 [[files]]
-file = "mods/enchanted-vertical-slabs.pw.toml"
-hash = "48f422e0435d5a3fc58a03fe9a35369719ad439bdcc6fb6b5c856ea1979eb2ad"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "9558aa8c50536000d90b990f1bcdaec0242f7bbcbd82b30c9dc6aa7c51d205c5"
 metafile = true
@@ -333,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "360959c50ff0b2765e683273b256cac86ccf8b4b96b54ad863d45ae2c44bf35f"
-metafile = true
-
-[[files]]
-file = "mods/expanded-delight.pw.toml"
-hash = "4d013214266c48b8853463e428949881aa97c06684284dcb508a1932ab7c3593"
 metafile = true
 
 [[files]]
@@ -376,11 +356,6 @@ hash = "899685dcf62ea766b1bc17580eac543b72901fcc6e7854de9da9180b5974d460"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
@@ -406,11 +381,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes.pw.toml"
-hash = "d7f4e76eab79a1e5d438f44234fc4c75a4827196fed01eddfd851096491b1d31"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "3617bcf1786f111f8a472145a13e02bdf24d2c2dadeaf294113fccd9acb6e1fa"
 metafile = true
@@ -423,11 +393,6 @@ metafile = true
 [[files]]
 file = "mods/fzzy-core.pw.toml"
 hash = "dac761273638f48b6949bc01d38a5999b3d6b3c3918afd98284d05c4ecac307b"
-metafile = true
-
-[[files]]
-file = "mods/handcrafted.pw.toml"
-hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
 
 [[files]]
@@ -446,11 +411,6 @@ hash = "547b1ccde38256b8090e6900147f2737513e423e1fc0bbfb412f8a1a8209b52c"
 metafile = true
 
 [[files]]
-file = "mods/immersive-armors.pw.toml"
-hash = "6afa8009ec93e4deec4e36fc341d768f62506abe6fbf10307c679fb87d16778e"
-metafile = true
-
-[[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "71086f8974cad24543cd48f83a0f09b5a8bde7fa401c1e71f98e82a0f96a1308"
 metafile = true
@@ -458,11 +418,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
-metafile = true
-
-[[files]]
-file = "mods/infinite-banner-patterns.pw.toml"
-hash = "b7bad0a7d85b9af10804c6b39131dc7bdd9aef0f3d70f53e3c452258a8cc7d22"
 metafile = true
 
 [[files]]
@@ -551,16 +506,6 @@ hash = "0a42eb060173bf1994e480d160de17d8a61af01758fc1c6b70f9a42dba75d61b"
 metafile = true
 
 [[files]]
-file = "mods/natures-compass.pw.toml"
-hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
-metafile = true
-
-[[files]]
-file = "mods/nitor.pw.toml"
-hash = "e540e8aeb9ada190c131619be38e70162da8189dee329200f9b92e9bc56d80d6"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "265cd890e280c9dfd5baae1e928282f756d1f75d3f07939909f60bf741036b52"
 metafile = true
@@ -636,11 +581,6 @@ hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
 metafile = true
 
 [[files]]
-file = "mods/things.pw.toml"
-hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
-metafile = true
-
-[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
@@ -668,11 +608,6 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
-metafile = true
-
-[[files]]
-file = "mods/way2wayfabric.pw.toml"
-hash = "22c02c241c720ef0e1ce59efb559a82ae47a5451409dda20bdf5f1e9c8dd0597"
 metafile = true
 
 [[files]]
