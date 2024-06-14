@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".editorconfig"
+hash = "63f6d3348c9da60240e90e62d863ba0054b73837b7b578048a3f5097b4cee4b6"
+
+[[files]]
 file = "LICENSE"
 hash = "98af50e7b2d43122b13b053b6dd4b394bc83a1f68e51ae41d5533b8e691a4827"
 
@@ -10,7 +14,7 @@ hash = "fa76275f339151e240b68cebbc828b8c6d771de88146dd276492545db0ee8a53"
 
 [[files]]
 file = "config/puzzle.json"
-hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
+hash = "29e34dcae395493915e08104170e5df30a5423aff483d1cf0762740200027d8e"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -115,6 +119,10 @@ hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "b5cfe4b9726c4be4b138944bc1a411ad499210b1b2bbf9c0c9427a6798c5214d"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "a976790273f6b66afddfd08627ef23ed890e10d1690ded24298fa2149de9bea6"
 
 [[files]]
 file = "config/yosbr/options.txt"
