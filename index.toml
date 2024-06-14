@@ -251,6 +251,11 @@ hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
 metafile = true
 
 [[files]]
+file = "mods/cobbled-shiny-particles.pw.toml"
+hash = "4d2ec7d89701b9ea007251dd9a5080942e665d517fc35b175723bd2820c4a975"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-fight-or-flight.pw.toml"
 hash = "e6dc6258b74e2caa896fdf4a56f16893721806061fc143bc5867be186f5f35ee"
 metafile = true
@@ -268,11 +273,6 @@ metafile = true
 [[files]]
 file = "mods/cobblepedia.pw.toml"
 hash = "c5f97e84177a5d77449dfb7e777cfd9d6d6a080f154d5db0d302f7d556b4f814"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
 
 [[files]]
