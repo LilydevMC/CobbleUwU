@@ -121,16 +121,6 @@ file = "config/yosbr/options.txt"
 hash = "b098b488a468cf8df4e985448921d9df9d51ee7f766345be65e83062b3b72e3e"
 
 [[files]]
-file = "datapacks/missingmons-cobblemon.pw.toml"
-hash = "bc1acdfd758ba966e6f510e0a3732d95c5c73df2794027859f65ef950a09a41d"
-metafile = true
-
-[[files]]
-file = "datapacks/mysticmons.pw.toml"
-hash = "6b44e77c49bd531dde1a7def92eaf28e7720862611aff7e69408d83a2b082d83"
-metafile = true
-
-[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
 metafile = true
