@@ -216,11 +216,6 @@ hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
-file = "mods/cinderscapes.pw.toml"
-hash = "f6a88dddbee551dadd9f8c8b52912a30c70bf381f152d67d97ebe0e5c6201898"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
 metafile = true
@@ -663,11 +658,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
-metafile = true
-
-[[files]]
-file = "mods/terrestria.pw.toml"
-hash = "d88f78d490fbfe15149a92f5aa1c66f3349cbb35c9599cbf9c4bba88e5ffb53a"
 metafile = true
 
 [[files]]
