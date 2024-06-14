@@ -536,11 +536,6 @@ hash = "863c7625ed377ba905368ec8cb50a29d2ad23c833b50d7808f933aecbe1bcad4"
 metafile = true
 
 [[files]]
-file = "mods/lavender.pw.toml"
-hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
-metafile = true
-
-[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "4635fd04883c36cc8e0fdbd7ccca40c9613daeb777c3fc9164c3e15c39dfb690"
 metafile = true
@@ -613,11 +608,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
@@ -698,11 +688,6 @@ metafile = true
 [[files]]
 file = "mods/terrestria.pw.toml"
 hash = "d88f78d490fbfe15149a92f5aa1c66f3349cbb35c9599cbf9c4bba88e5ffb53a"
-metafile = true
-
-[[files]]
-file = "mods/things.pw.toml"
-hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
 metafile = true
 
 [[files]]
