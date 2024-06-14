@@ -246,16 +246,6 @@ hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-fight-or-flight.pw.toml"
-hash = "e6dc6258b74e2caa896fdf4a56f16893721806061fc143bc5867be186f5f35ee"
-metafile = true
-
-[[files]]
-file = "mods/cobblepedia.pw.toml"
-hash = "c5f97e84177a5d77449dfb7e777cfd9d6d6a080f154d5db0d302f7d556b4f814"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
@@ -733,11 +723,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
-metafile = true
-
-[[files]]
-file = "mods/where-are-my-tms.pw.toml"
-hash = "afa37ff0933737289762d010849bed6cd99960f626e21ff11dc1a97524da4f43"
 metafile = true
 
 [[files]]
