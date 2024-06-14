@@ -229,6 +229,11 @@ hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "f6a88dddbee551dadd9f8c8b52912a30c70bf381f152d67d97ebe0e5c6201898"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
 metafile = true
@@ -455,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "3617bcf1786f111f8a472145a13e02bdf24d2c2dadeaf294113fccd9acb6e1fa"
+hash = "7a0ddae74ef4a6015f9919459f49624bbddd7f3891dbaae71ea042456b6f44b8"
 metafile = true
 
 [[files]]
@@ -539,6 +544,11 @@ hash = "863c7625ed377ba905368ec8cb50a29d2ad23c833b50d7808f933aecbe1bcad4"
 metafile = true
 
 [[files]]
+file = "mods/lavender.pw.toml"
+hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "4635fd04883c36cc8e0fdbd7ccca40c9613daeb777c3fc9164c3e15c39dfb690"
 metafile = true
@@ -614,6 +624,11 @@ hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
@@ -686,6 +701,16 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "f832a98367e3855c99d53f41ba81dd58a467cae8f998b488ae6522675abc2323"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+hash = "d88f78d490fbfe15149a92f5aa1c66f3349cbb35c9599cbf9c4bba88e5ffb53a"
+metafile = true
+
+[[files]]
+file = "mods/things.pw.toml"
+hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
 metafile = true
 
 [[files]]
